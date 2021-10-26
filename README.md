@@ -1,1 +1,1 @@
-This example uses the adapter pattern. Student class is interface.  This is a schedule for the University. The address, city, and age of old and new students are indicated.
+This example uses the template method design pattern. Routine and TemplateMain are abstract classes.  This is a daily routine for the people. Students and pupils study.  Well, undergraduates work and study. And teachers work and relax.
